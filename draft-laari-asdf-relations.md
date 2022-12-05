@@ -1,7 +1,8 @@
+---
 title: "Extended relation information for Semantic Definition Format (SDF)"
 abbrev: "SDF Relations"
 docname: draft-laari-asdf-relations-latest
-category: info
+category: std
 
 ipr: trust200902
 area: ART
