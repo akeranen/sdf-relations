@@ -52,6 +52,8 @@ The basic parent-child relations between SDF Objects and Things can be defined b
 
 This document extends the base SDF specification by adding a new keyword to describe also other relations between physical or logical objects. This new keyword is needed to describe, without loss of information, models from ecosystems that are using complex relation information in their definitions.
 
+This extension enables describing relations from SDF models to various (SDF or other) definitions. For a link data type for affordances, e.g., for a link property that can be accesses and modified during runtime, the "sdfType for links" extension {{?I-D.bormann-asdf-sdftype-link}} can be used.
+
 NOTE: This extension is now defined based on the Relationships feature in the DTDL specification. There may be other kind of definitions for relationships in other data models that must be taken into account and this specification may need to be extended to cover also those requirements.
 
 # Terminology
